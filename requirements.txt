@@ -17,7 +17,7 @@ requests-html==0.10.0
 six==1.16.0
 soupsieve==2.3.1
 tqdm==4.63.1
-urllib3==1.26.9
+urllib3==1.26.19
 w3lib==1.22.0
 websockets==10.2
 zipp==3.7.0
